@@ -33,7 +33,6 @@ This project demonstrates my ability to:
 - 💡 Drive thought leadership in fintech and open banking  
 - 📊 Blend product thinking, storytelling, and SEO-based distribution  
 
-👉 *Read the titles. They’ll tell you how I think.*
 
 ---
 
@@ -47,7 +46,7 @@ Powered by **ChatGPT**, **DeepSeek**, and the **Amazon Ads API**, the tool autom
 - ✍️ Ad copy generation using prompt engineering  
 
 This project reflects:
-- ⚙️ My ability to **productize AI workflows**  
+- ⚙️ **productize AI workflows**  
 - 💰 Real cost savings (30%+ ad spend reduced)  
 - 📦 Deep understanding of **performance marketing at scale**
 
@@ -60,7 +59,6 @@ Mark AI is a GPT-based chatbot trained to answer:
 - 🌍 Global products: including **Revolut’s features, FX, and onboarding**  
 - 📢 Complaint handling with empathy and resolution flow  
 
-Built using GPT-4 API + FastAPI and fully integrated into UpiTracker, Mark AI showcases:
 - 🧠 Customer-first automation  
 - 🔌 NLP deployment in live web products  
 - 💬 Scalable, context-aware support for fintech users
@@ -77,8 +75,8 @@ Built using GPT-4 API + FastAPI and fully integrated into UpiTracker, Mark AI sh
 
 ---
 
-### 📊 Growth Executive — Panomac (Panoramic Management & Consulting)  
-**Business Expansion, Wealth Advisory & Strategic Growth | Jan 2022 – Jun 2025**  
+### 📊 Growth Executive — Panomac (Panoramic Management & Consulting) SEBI Registered 
+**Expansion, Wealth Advisory & Strategic Growth | Jan 2022 – Jun 2025**  
 - Managed **HNI portfolios of ₹10M+ AUM**  
 - Spearheaded **financial literacy programs** and upsold premium services  
 - Worked cross-functionally with product, compliance, and stakeholder teams  
@@ -107,12 +105,10 @@ Built using GPT-4 API + FastAPI and fully integrated into UpiTracker, Mark AI sh
 ### 🎓 Master of Business Administration — Finance  
 **MIT, University of Pune | A Grade | 2016–2018**  
 - Thesis: *“Stock Market Research through Technical Analysis”*  
-- Specialized in capital markets, research, and strategic finance  
 
 ### 🎓 Bachelor of Business Administration — Business  
 **Center Point College, Nagpur | A Grade | 2012–2015**  
 - Balanced academics with **simultaneous internship & full-time work**  
-- Developed early proficiency in **client handling, business systems, and sales**
 
 ---
 
@@ -130,7 +126,7 @@ Built using GPT-4 API + FastAPI and fully integrated into UpiTracker, Mark AI sh
 |------------------|------------------|
 | **AI/ML**        | GPT-4 API, DeepSeek, Prompt Engineering |
 | **AdTech**       | Amazon Ads API, AMC, ACoS Strategy |
-| **Web Dev**      | HTML, JS, Bootstrap, FastAPI |
+| **Web Dev**      | Wordpress, FastAPI |
 | **Analytics**    | Looker Studio, Google Sheets API, Razorpay API |
 | **Content**      | SEO Writing, Blog Architecture, UX Content Strategy |
 | **Growth**       | Funnel Design, User Acquisition, Retention Strategy |
@@ -140,9 +136,8 @@ Built using GPT-4 API + FastAPI and fully integrated into UpiTracker, Mark AI sh
 
 ## 📫 Let’s Connect
 
-💼 [LinkedIn](https://linkedin.com/in/priyanka-adhikari)  
 🌐 [UPI Tracker](https://upitracker.com) • [Amazon Ads AI](https://firstlevel.in)  
-✉️ Email: adhikaripri@gmail.com
+✉️ Email: priyankaadhikari.work@gmail.com
 
 ---
 
