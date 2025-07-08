@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Priyanka Adhikari  
+# Priyanka Adhikari  
 ### Fintech Strategist | AI Builder | Amazon Ads Innovator | Business Growth Architect  
 
 ---
