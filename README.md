@@ -8,7 +8,7 @@
 🎓 MBA in Finance — MIT Pune  
 📜 NISM VIII Certified | Google Digital Marketing | AMC Learner  
 👩‍🏫 Guest Lecturer — Ness Wadia College, Pune  
-📫 [LinkedIn](https://linkedin.com/in/priyanka-adhikari) • [Portfolio](https://upitracker.com) • [Amazon Ads AI](https://firstlevel.in)
+📫 [Portfolio](https://upitracker.com) • [Amazon Ads AI](https://firstlevel.in)
 
 ---
 
