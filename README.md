@@ -1,4 +1,3 @@
-<img src="https://upitracker.com/logo.png" alt="UPI Tracker Logo" width="120" align="right"/>
 
 # 👋 Hi, I'm Priyanka Adhikari  
 ### Fintech Strategist | AI Builder | Amazon Ads Innovator | Business Growth Architect  
