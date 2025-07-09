@@ -76,9 +76,10 @@ Mark AI is a GPT-based chatbot trained to answer:
 
 ### 📊 Growth Executive — Panomac (Panoramic Management & Consulting) SEBI Registered 
 **Expansion, Wealth Advisory & Strategic Growth | Jan 2022 – Jun 2025**  
-- Managed **HNI portfolios of ₹10M+ AUM**  
-- Spearheaded **financial literacy programs** and upsold premium services  
-- Worked cross-functionally with product, compliance, and stakeholder teams  
+- Scaled AUM portfolios through structured advisory, securing top 10% performer rank (2023-2025)  
+- Drove 25% retention growth via premium membership cross-selling and SEBI-compliant research frameworks    
+- Worked cross-functionally with product, compliance, and stakeholder teams
+- Pioneered market entry strategies, delivering stakeholder presentations for new verticals
 - Mentored SEBI-track analysts and delivered client growth reports
 
 ---
@@ -86,15 +87,16 @@ Mark AI is a GPT-based chatbot trained to answer:
 ### 💡 Freelance Digital Strategist — Self-Employed  
 **Tech Projects, Blogs & Web Product Experiments | Mar 2016 – Aug 2017**  
 - Built foundational fintech content and blogs (early versions of UpiTracker)  
-- Collaborated on front-end logic, UX, and product scope  
+- Collaborated on front-end logic, UX, and product scope
+- Developed foundational concepts for firstlevel.in (AI-powered Amazon Ads tool)
 - Explored frameworks for API visualization, blog automation, and MVP testing
 
 ---
 
 ### 🛠 Sales Account Executive — MV Internationals (CV Traders Pvt Ltd)  
 **Client Acquisition, B2B Sales & Documentation | 2012 – 2014**  
-- Handled **customs, invoicing, and product documentation**  
-- Managed B2B sales cycle from pitch to delivery across architecture/interior firms  
+- Managed **custom billings and payments, issued sales invoices and coordinated client payment cycles**
+- Prepared and submitted documentation for Special Additional Duty (SAD) refund claims
 - Built client relationships, streamlined processes, and ensured delivery compliance
 
 ---
@@ -103,7 +105,7 @@ Mark AI is a GPT-based chatbot trained to answer:
 
 ### 🎓 Master of Business Administration — Finance  
 **MIT, University of Pune | A Grade | 2016–2018**  
-- Thesis: *“Stock Market Research through Technical Analysis”*  
+- Thesis: *“Study of Equity Research and Technical Analysis for Investment Decisions”*  
 
 ### 🎓 Bachelor of Business Administration — Business  
 **Center Point College, Nagpur | A Grade | 2012–2015**  
